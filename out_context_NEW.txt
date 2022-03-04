@@ -1,0 +1,151 @@
+é/V a/DA cidade/CN 
+é/V uma/UM cidade/CN 
+é/V uma/UM pequena/ADJ cidade/CN 
+é/V uma/UM cidade/CN grande/ADJ 
+é/V uma/UM cidade/CN brasileira/ADJ 
+é/V uma/UM de_/PREP as/DA cidades/CN 
+é/V um/UM município/CN 
+é/V o/DA município/CN 
+é/V a/DA capital/CN 
+é/V a/DA principal/ADJ cidade/CN 
+é/V o/DA ator/CN 
+é/V a/DA atriz/CN 
+é/V um/UM ator/CN 
+é/V uma/UM atriz/CN 
+é/V uma/UM atriz/CN americana/ADJ 
+é/V um/UM ator/CN americano/ADJ 
+é/V uma/UM grande/ADJ atriz/CN 
+é/V um/UM ator/CN brasileiro/ADJ 
+é/V uma/UM atriz/CN brasileira/ADJ 
+é/V um/UM grande/ADJ ator/CN 
+é/V um/UM craque/CN 
+é/V o/CL goleiro/CN 
+é/V o/CL artilheiro/CN 
+é/V o/DA atacante/CN 
+é/V uma/UM atleta/CN 
+é/V o/DA atleta/CN 
+é/V um/UM de_/PREP os/DA atletas/CN 
+é/V o/DA tenista/CN 
+é/V um/UM jogador/CN 
+é/V um/UM jogador/CN de/PREP futebol/CN 
+é/V um/UM jogo/CN de/PREP baralho/CN 
+é/V um/UM jogo/CN de/PREP tabuleiro/CN 
+é/V um/UM RPG/CN de/PREP mesa/CN 
+é/V um/UM jogo/CN de/PREP mesa/CN 
+é/V um/UM jogo/CN 
+é/V um/UM jogo/CN de/PREP cartas/CN 
+é/V um/UM de_/PREP os/DA jogos/CN 
+é/V o/DA jogo/CN 
+é/V o/DA jogo/CN de/PREP palavras/CN 
+é/V uma/UM série/CN de/PREP jogos/CN 
+é/V o/DA novo/ADJ técnico/CN 
+é/V o/DA técnico/CN de_/V a/DA equipe/CN 
+é/V o/DA técnico/CN de_/V o/DA time/CN 
+é/V um/UM técnico/CN 
+é/V um/UM técnico/CN linha-dura/ADJ 
+é/V um/UM treinador/CN holandês/ADJ 
+é/V um/UM treinador/CN 
+é/V um/UM grande/ADJ treinador/CN 
+é/V o/DA treinador/CN 
+é/V o/DA novo/ADJ treinador/CN 
+é/V uma/UM companhia/CN 
+é/V a/DA companhia/CN 
+é/V a/DA melhor/ADJ companhia/CN 
+é/V uma/UM empresa/CN 
+é/V uma/UM de_/PREP as/DA companhias/CN 
+é/V a/DA maior/ADJ empresa/CN 
+é/V uma/UM grande/ADJ empresa/CN 
+é/V uma/UM companhia/CN estatal/ADJ 
+é/V a/DA única/ADJ empresa/CN 
+é/V uma/UM multinacional/CN 
+é/V um/UM país/CN 
+é/V um/UM país/CN localizado/PPA 
+é/V o/DA país/CN 
+é/V um/UM país/CN de_/PREP o/DA sul/CN 
+é/V o/DA único/ADJ país/CN 
+é/V um/UM país/CN pobre/ADJ 
+é/V um/UM país/CN Asiático/PNT 
+é/V um/UM país/CN Europeu/ADJ 
+é/V o/DA maior/ADJ país/CN 
+é/V um/UM país/CN rico/ADJ 
+é/V o/DA setor/CN econômico/ADJ 
+é/V o/DA primeiro/ORD setor/CN econômico/ADJ 
+é/V um/UM setor/CN de_/PREP a/DA economia/CN 
+é/V a/DA base/CN de_/PREP a/DA economia/CN 
+é/V um/UM segmento/CN de_/PREP a/DA economia/CN 
+é/V o/DA setor/CN 
+é/V o/DA setor/CN produtivo/ADJ 
+é/V a/DA principal/ADJ atividade/CN econômica/ADJ 
+é/V a/DA atividade/CN econômica/ADJ 
+é/V a/DA base/CN de_/PREP o/DA desenvolvimento/CN 
+é/V o/DA meu/POSS hobby/CN 
+é/V o/DA principal/ADJ hobby/CN 
+é/V um/UM passatempo/CN ou/CJ hobby/CN 
+é/V um/UM hobby/CN 
+é/V um/UM hobby/CN de/PREP crianças/CN 
+é/V o/DA passatempo/CN 
+é/V um/UM passatempo/CN 
+é/V o/DA principal/ADJ passatempo/CN 
+é/V o/DA passatempo/CN de_/PREP o/DA verão/CN 
+é/V o/DA passatempo/CN mais/ADV popular/ADJ 
+é/V uma/UM pessoa/CN 
+é/V o/DA tio/CN 
+é/V a/DA tia/CN 
+é/V uma/UM pessoa/CN muito/ADV correta/ADJ 
+é/V uma/UM pessoa/CN idônea/ADJ 
+é/V uma/UM pessoa/CN muito/ADV conhecida/PPA 
+é/V uma/UM pessoa/CN excepcional/ADJ 
+é/V a/DA mãe/CN de/PREP 
+é/V o/DA pai/CN de/PREP 
+é/V a/DA prima/CN 
+é/V um/UM político/CN 
+é/V o/DA governador/CN 
+é/V o/DA secretário/CN de_/ADJ a/PREP 
+é/V o/DA presidente/CN 
+é/V o/DA vereador/CN 
+é/V um/UM ministro/CN 
+é/V uma/UM candidata/CN 
+é/V a/DA presidente/CN 
+é/V um/UM candidato/CN 
+é/V um/UM prefeito/CN 
+é/V um/UM produto/CN caro/ADJ 
+é/V um/UM de_/PREP os/DA produtos/CN 
+é/V uma/UM mercadoria/CN 
+é/V um/UM produto/CN importado/PPA 
+é/V um/UM produto/CN 
+é/V o/DA produto/CN 
+é/V um/UM produto/CN fabricado/PPA 
+é/V o/CL combustível/ADJ 
+é/V um/UM produto/CN consumido/PPA 
+é/V um/UM combustível/ADJ 
+é/V o/DA cientista/CN 
+é/V o/DA cientista/CN político/ADJ 
+é/V o/DA mesmo/ADJ cientista/CN 
+é/V a/DA de/PREP cientista/CN 
+é/V um/UM cientista/CN 
+é/V um/UM de_/PREP os/DA cientistas/CN 
+é/V um/UM cientista/CN português/ADJ 
+é/V uma/UM cientista/CN 
+é/V um/UM de_/CN os/DA cientistas/CN políticos/ADJ 
+é/V o/DA inventor/CN 
+é/V um/UM esporte/CN 
+é/V o/CL esporte/CN 
+é/V o/DA esporte/CN mais/ADV popular/ADJ 
+é/V o/DA esporte/CN aéreo/ADJ 
+é/V um/UM de_/PREP os/DA esportes/CN 
+é/V um/UM esporte/CN de/PREP crianças/CN 
+é/V um/UM esporte/CN muito/ADV perigoso/ADJ 
+é/V um/UM esporte/CN muito/ADV simples/ADJ 
+é/V o/DA esporte/CN mais/ADV praticado/PPA 
+é/V um/UM de_/PREP os/DA esportes/CN radicais/ADJ 
+é/V o/CL time/CN 
+é/V o/DA pior/ADJ time/CN 
+é/V o/DA melhor/ADJ time/CN 
+é/V o/DA primeiro/ORD time/CN 
+é/V a/DA equipe/CN brasileira/ADJ 
+é/V a/DA equipe/CN 
+é/V a/DA equipe/CN favorita/ADJ 
+é/V a/DA equipe/CN que/REL mais/ADV 
+é/V um/UM time/CN de/PREP futebol/CN 
+é/V um/UM time/CN de/PREP basquete/CN 
+

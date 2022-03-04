@@ -1,0 +1,141 @@
+foi/V comprada/PPA por_/PREP a/DA 
+foi/V comprada/PPA por_/PREP o/DA grupo/CN 
+foi/V comprado/PPA por_/PREP a/DA 
+foi/V comprado/PPA por_/PREP o/DA grupo/CN 
+foi/V adquirida/PPA por_/PREP a/DA 
+foi/V adquirido/PPA por_/PREP o/DA grupo/CN 
+foi/V adquirido/PPA por_/PREP a/DA 
+foi/V adquirida/PPA por_/PREP o/DA grupo/CN 
+é/V uma/UM de_/CN as/DA empresas/CN de_/PREP o/DA grupo/CN 
+é/V uma/UM de_/PREP as/DA companhias/CN de_/PREP o/DA grupo/CN 
+é/V o/DA diretor/ADJ presidente/CN de_/PREP a/DA companhia/CN 
+é/V atual/ADJ diretor/ADJ presidente/CN de_/V a/DA 
+é/V proprietário/CN de_/PREP a/DA empresa/CN 
+é/V diretor/ADJ presidente/CN de_/V a/DA 
+é/V o/DA dono/CN de_/PREP a/DA empresa/CN 
+é/V o/DA dono/CN de_/PREP a/DA companhia/CN 
+ocupa/V o/DA cargo/CN de/PREP diretor/CN presidente/CN de_/PNT a/DA 
+é/V o/DA diretor/ADJ presidente/CN de_/V o/DA 
+ocupou/V o/DA cargo/CN de/PREP diretor/CN presidente/CN de_/PNT a/DA 
+foi/V o/DA diretor/ADJ presidente/CN de_/V a/DA 
+é/V treinador/CN de_/PREP a/DA equipe/CN 
+é/V o/DA novo/ADJ treinador/CN de_/PREP a/DA equipe/CN de_/V o/CL 
+é/V técnico/ADJ de_/INF o/DA 
+é/V o/DA técnico/CN de_/V o/DA 
+é/V o/DA novo/ADJ técnico/CN de_/V o/DA 
+é/V o/DA novo/ADJ treinador/CN de_/PREP o/DA time/CN de_/V o/CL 
+foi/V técnico/ADJ de_/PNT o/DA 
+foi/V treinador/CN de_/PNT o/DA 
+é/V o/DA técnico/CN de_/V o/DA time/CN de/PREP 
+é/V o/DA time/CN de_/V o/DA treinador/CN 
+é/V uma/UM companhia/CN de_/PREP o/DA setor/CN de/PREP 
+é/V uma/UM companhia/CN de_/PREP o/DA ramo/CN 
+é/V uma/UM empresa/CN de_/PREP o/DA sertor/CN de/PREP 
+é/V uma/UM empresa/CN de_/PREP o/DA ramo/CN 
+é/V uma/UM empresa/CN em_/PREP o/DA setor/CN 
+é/V uma/UM companhia/CN em_/PREP o/DA setor/CN 
+tem/V atividade/CN em_/PREP o/DA setor/CN de/PREP 
+é/V a/DA maior/ADJ empresa/CN de_/PREP o/DA setor/CN de/PREP 
+é/V uma/UM de_/PREP as/DA maiores/ADJ empresas/CN de_/PREP o/DA setor/CN de/PREP 
+é/V uma/UM de_/CN as/DA empresas/CN de_/V o/DA setor/CN de/PREP 
+é/V concorrente/ADJ de_/CN a/PREP 
+é/V concorrente/ADJ de_/INF o/CL 
+é/V uma/UM de_/CN as/DA concorrentes/CN de/PREP 
+é/V uma/UM empresa/CN que/REL concorre/V com/PREP 
+ganhou/V mercado/CN para/PREP 
+perdeu/V mercado/CN para/PREP 
+é/V sua/POSS concorrente/CN em_/PREP o/DA mercado/CN 
+é/V uma/UM concorrente/CN forte/ADJ de_/PNT a/DA 
+concorre/V em_/PREP o/DA mercado/CN com/PREP 
+é/V uma/UM forte/ADJ concorrente/CN de_/ADJ a/PREP 
+tem/V escritório/CN em/PREP 
+possui/V escritório/CN em/PREP 
+possui/V escritório/CN em_/PREP a/DA cidade/CN de/PREP 
+está/V localizado/PPA o/DA escritório/CN de_/V a/CL 
+tem/V novo/ADJ escritório/CN em/PREP 
+tem/V vários/QNT escritórios/CN em/PREP 
+possui/V um/UM escritório/CN em/PREP 
+tem/V um/UM novo/ADJ escritório/CN em/PREP 
+tem/V muitos/QNT escritórios/CN em/PREP 
+abriu/V um/UM escritório/CN em/PREP 
+tem/V operações/CN financeiras/ADJ em_/PREP o/DA 
+realiza/V operações/CN comerciais/ADJ com/PREP 
+tem/V operações/CN comerciais/ADJ em/PREP 
+possui/V negócios/CN em/PREP 
+realiza/V negócios/CN em_/PREP a/DA 
+tem/V bons/ADJ negócios/CN em/PREP 
+fez/V operações/CN financeiras/ADJ em/PREP 
+teve/V prejuízo/CN em/PREP 
+faz/V operações/CN comerciais/ADJ em/PREP 
+teve/V boas/ADJ vendas/CN em/PREP 
+possui/V matriz/CN em/PREP 
+possui/V sede/CN em/PREP 
+possui/V sua/POSS matriz/CN localizada/PPA em/PREP 
+tem/V sua/POSS matriz/CN em/PREP 
+tem/V matriz/CN em/PREP 
+tem/V sede/CN em/PREP 
+com/PREP sede/CN em/PREP 
+tem/V sede/CN em_/PREP a/DA cidade/CN de/PREP 
+possui/V matriz/CN em_/PREP a/DA cidade/CN de/PREP 
+sua/POSS matriz/CN é/V em/LADV1 
+joga/V por_/PREP o/DA 
+é/V jogador/CN de_/LPREP1 o/LPREP2 
+é/V um/UM de_/CN os/DA atletas/CN de_/V o/CL 
+é/V o/DA melhor/ADJ jogador/CN de_/V o/CL 
+está/V jogando/GER por_/PREP o/DA 
+está/V jogando/GER por_/PREP a/DA 
+joga/V em_/PREP a/DA equipe/CN 
+está/V jogando/GER em_/PREP o/DA 
+fez/V o/DA gol/CN de_/V o/CL 
+é/V o/DA artilheiro/CN de_/V o/CL 
+é/V um/UM de_/CN os/DA melhores/ADJ jogadores/CN de/PREP 
+é/V jogador/CN de/PREP 
+é/V um/UM de_/CN os/DA jogadores/CN de/PREP 
+é/V o/DA melhor/ADJ jogador/CN de/PREP 
+é/V o/DA melhor/ADJ atleta/CN de/PREP 
+é/V um/UM bom/ADJ jogador/CN de/PREP 
+é/V o/DA craque/CN de_/V o/CL 
+é/V o/DA novo/ADJ craque/CN de_/V o/CL 
+é/V o/DA novo/ADJ jogador/CN de/PREP 
+é/V um/UM jogador/CN de/PREP 
+é/V o/DA time/CN de/PREP 
+é/V uma/UM equipe/CN campeã/CN de/PREP 
+foi/V o/DA time/CN vencedor/CN de/PREP 
+é/V a/DA melhor/ADJ equipe/CN de/PREP 
+é/V o/DA melhor/ADJ time/CN de/PREP 
+é/V a/DA equipe/CN campeã/CN de/PREP 
+é/V uma/UM equipe/CN de/PREP 
+foi/V a/DA equipe/CN campeã/CN de/PREP 
+é/V uma/UM equipe/CN brasileira/ADJ de/PREP 
+é/V uma/UM equipe/CN americana/ADJ de/PREP 
+é/V a/DA empresa/CN que/REL produz/V 
+é/V a/DA fabricante/CN de/PREP 
+é/V a/DA empresa/CN que/REL fabrica/V 
+é/V o/DA fabricante/CN de/PREP 
+é/V a/DA empresa/CN fabricante/ADJ de/PREP 
+é/V produzido/PPA por_/PREP a/DA 
+é/V fabricado/PPA por_/PREP a/DA 
+é/V o/DA produto/CN fabricado/PPA por_/PREP a/DA 
+é/V um/UM de_/PREP os/DA produtos/CN de_/ADJ a/PREP 
+é/V fabricante/ADJ de/PREP 
+é/V um/UM produto/CN classificado/PPA como/CJ 
+é/V um/UM produto/CN de_/PREP o/DA tipo/CN 
+é/V um/UM de_/PREP os/DA produtos/CN de_/PREP o/DA tipo/CN 
+é/V o/DA produto/CN de_/PREP o/DA tipo/CN 
+é/V um/UM produto/CN dito/PPA 
+é/V um/UM produto/CN com/PREP classificação/CN 
+são/V produtos/CN de_/PREP o/DA tipo/CN 
+está/V em_/PREP a/DA lista/CN de/PREP produtos/CN 
+são/V produtos/CN classificados/PPA como/CJ 
+é/V o/DA melhor/ADJ produto/CN de_/PREP o/DA tipo/CN 
+é/V a/DA capital/CN de/PREP 
+é/V a/DA capital/CN de_/PNT o/DA 
+é/V a/DA capital/CN de_/ADJ a/PREP 
+é/V a/DA capital/CN de_/PNT os/DA 
+é/V uma/UM cidade/CN famosa/ADJ de_/V o/CL 
+é/V uma/UM cidade/CN a_/PREP o/DA norte/CN de_/PNT o/DA 
+é/V uma/UM famosa/ADJ cidade/CN de_/V o/CL 
+é/V uma/UM de_/PREP as/DA cidades/CN mais/ADV famosas/ADJ de_/V o/CL 
+é/V a/DA cidade/CN mais/ADV linda/ADJ de_/LCJ1 o/LCJ2 
+é/V uma/UM cidade/CN linda/ADJ de_/PNT o/DA 
+

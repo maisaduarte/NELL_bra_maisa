@@ -1,0 +1,31 @@
+chamado/PPA de/PREP 
+conhecido/PPA como/CJ 
+também/ADV chamado/PPA de/PREP 
+também/ADV conhecido/PPA de/PREP 
+popularmente/ADV chamado/PPA de/PREP 
+popularmente/ADV conhecido/PPA como/CJ 
+chamada/PPA de/PREP 
+conhecida/PPA como/CJ 
+também/ADV chamda/CN de/PREP 
+popularmente/ADV conhecida/PPA como/CJ 
+também/ADV conhecida/PPA de/PREP 
+populamente/ADV chamada/PPA de/PREP 
+conhecida/PPA de/PREP 
+conhecido/PPA de/PREP 
+mais/ADV conhecida/PPA como/CJ 
+também/ADV chamada/PPA de/PREP 
+mais/ADV conhecido/PPA como/CJ 
+também/ADV chamado/PPA de/PREP 
+é/V chamado/PPA de/PREP 
+é/V conhecido/PPA como/CJ 
+é/V o/DA mesmo/LCJ1 que/LCJ2 
+já/ADV foi/V chamada/PPA de/PREP 
+chamaram/V como/CJ 
+tem/V apelido/CN de/PREP 
+possui/V o/DA apelido/CN 
+antigamente/ADV chamada/PPA de/PREP 
+antigamente/ADV conhecida/PPA de/PREP 
+antigamente/ADV chamada/PPA como/CJ 
+antigamente/ADV conhecida/PPA como/CJ 
+nomeada/PPA de/PREP 
+intitulado/PPA de/PREP

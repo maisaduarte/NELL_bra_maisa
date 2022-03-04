@@ -1,0 +1,161 @@
+acidentes/CN em_/PREP a/DA cidade/CN de/PREP 
+a/DA cidade/CN de/PREP 
+até/PREP a/DA cidade/CN de/PREP 
+belíssima/ADJ cidade/CN de/PREP 
+caminhada/CN em_/PREP a/DA cidade/CN de/PREP 
+casa/CN em_/PREP a/DA cidade/CN de/PREP 
+concurso/CN em_/PREP a/DA cidade/CN de/PREP 
+confirmou/V a/DA cidade/CN de/PREP 
+conjunto/CN de_/PREP a/DA cidade/CN de/PREP 
+de_/V a/DA cidade/CN preferida/PPA 
+é/V o/DA ator/CN 
+melhor/ADJ ator/CN de_/PREP o/DA festival/CN 
+para/PREP ator/CN de/PREP comédia/CN 
+O/DA ator/CN americano/ADJ 
+a/DA atriz/CN carioca/ADJ 
+o/DA ator/CN é/V 
+O/DA ator/CN italiano/ADJ 
+A/DA atriz/CN portuguesa/ADJ 
+a_/V a/DA atriz/CN francesa/ADJ 
+a/DA atriz/CN favorita/ADJ 
+o/DA craque/CN excepcional/ADJ 
+Após/PREP gol/CN de/PREP 
+com/PREP o/DA gol/CN de/PREP 
+contra/PREP o/DA gol/CN de/PREP 
+saiu/V o/DA gol/CN de/PREP 
+com/PREP um/UM gol/CN de/PREP 
+sofreu/V gol/CN de/PREP 
+o/DA goleiro/CN reserva/V 
+O/DA goleiro/CN titular/ADJ 
+o/DA atacante/ADJ santista/CN 
+é/V um/UM jogo/CN de/PREP baralho/CN 
+é/V um/UM jogo/CN de/PREP tabuleiro/CN 
+é/V um/UM jogo/CN educativo/ADJ 
+é/V um/UM jogo/CN de/PREP mesa/CN 
+jogos/CN de/PREP tabuleiro/CN tais/LCJ1 como/LCJ2 
+é/V um/UM jogo/CN de/PREP cartas/CN 
+jogos/CN de/PREP baralho/CN como/CJ 
+jogos/CN de/PREP tabuleiro/CN como/CJ 
+é/V um/UM jogo/CN com/PREP cartas/CN 
+o/DA jogo/CN de/PREP tabuleiro/CN 
+é/V o/DA novo/ADJ técnico/CN de_/PREP o/DA time/CN 
+é/V o/DA técnico/CN de_/V a/DA equipe/CN 
+é/V técnico/ADJ de_/PREP o/DA time/CN 
+é/V o/DA treinador/CN de_/PREP o/DA time/CN 
+é/V o/DA treinador/CN de_/PREP a/DA equipe/CN 
+o/DA técnico/CN de/PREP basquete/CN 
+o/DA técnico/CN de_/V a/DA equipe/CN brasileira/ADJ 
+o/DA técnico/CN de_/V a/DA seleção/CN 
+o/DA treinador/CN de_/PREP o/DA time/CN é/V 
+o/DA treinador/CN de_/V a/DA equipe/CN é/V 
+é/V uma/UM companhia/CN 
+companhias/CN tais/LADV1 como/LADV2 
+é/V uma/UM empresa/CN grande/ADJ 
+a/DA companhia/CN 
+a/DA empresa/CN 
+é/V uma/UM grande/ADJ companhia/CN 
+é/V uma/UM grande/ADJ empresa/CN 
+a/DA multinacional/CN 
+empresas/CN tais/LADV1 como/LADV2 
+é/V uma/UM multinacional/CN 
+é/V um/UM país/CN 
+é/V um/UM país/CN localizado/PPA 
+foi/V o/DA país/CN sede/CN 
+é/V um/UM país/CN de_/PREP o/DA sul/CN 
+é/V um/UM país/CN de_/PREP a/DA Oceania/PNM 
+é/V um/UM país/CN de_/PREP a/DA América/PNM 
+é/V um/UM país/CN Asiático/PNT 
+é/V um/UM país/CN Europeu/ADJ 
+é/V um/UM país/CN de_/PREP a/DA África/PNM 
+é/V um/UM país/CN rico/ADJ 
+é/V um/UM setor/CN econômico/ADJ 
+é/V um/UM setor/CN econômico/ADJ importante/ADJ 
+o/DA setor/CN econômico/ADJ de/PREP 
+é/V um/UM importante/ADJ setor/CN econômico/ADJ 
+setores/CN econômicos/ADJ tais/LCJ1 como/LCJ2 
+é/V o/DA setor/CN econômico/ADJ mais/ADV importante/ADJ 
+setores/CN de_/PREP a/DA economia/CN como/CJ 
+o/DA faturamento/CN de_/V o/DA setor/CN de/PREP 
+é/V um/UM de_/PREP os/DA setores/CN econômicos/ADJ 
+é/V um/UM setor/CN de_/PREP a/DA economia/CN 
+em_/PREP as/DA horas/CN livres/ADJ gosto/V de/PREP 
+meu/POSS hobby/CN é/V 
+em_/PREP o/DA tempo/CN livre/ADJ gosto/V de/PREP 
+é/V um/UM hobby/CN 
+seu/POSS hobby/CN é/V 
+em_/PREP as/DA férias/CN gosto/CN de/PREP 
+meu/POSS passatempo/CN preferido/PPA é/V 
+é/V meu/POSS hobby/CN 
+meu/POSS divertimento/CN é/V 
+meu/POSS passatempo/CN é/V 
+é/V filho/CN de/PREP 
+é/V pai/CN de/PREP 
+é/V uma/UM pessoa/CN 
+é/V um/UM artista/CN 
+é/V um/UM funcionário/CN 
+é/V o/DA tio/CN 
+é/V o/DA sobrinho/CN 
+é/V a/DA mãe/CN 
+irmão/CN de/PREP 
+o/DA técnico/CN 
+é/V um/UM político/CN 
+é/V o/DA governador/CN 
+é/V o/DA secretário/CN de_/ADJ a/PREP 
+é/V o/DA presidente/CN 
+é/V vereador/CN 
+políticos/CN tais/LADV1 como/LADV2 
+teve/V o/DA mandato/CN cassado/PPA 
+vereadores/CN tais/LADV1 como/LADV2 
+o/DA prefeito/CN 
+é/V prefeito/PPA 
+é/V um/UM produto/CN caro/ADJ 
+é/V um/UM produto/CN barato/ADJ 
+a/DA loja/CN vende/V 
+loja/CN de/PREP 
+é/V um/UM produto/CN 
+é/V o/DA produto/CN 
+é/V um/UM produto/CN fabricado/PPA 
+produtos/CN como/CJ 
+é/V um/UM produto/CN consumido/PPA 
+produtos/CN tais/LADV1 como/LADV2 
+tipos/CN de/PREP produtos/CN como/CJ 
+o/DA produto/CN é/V classificado/PPA em/PREP 
+os/DA tipos/CN de/PREP produtos/CN são/V 
+é/V um/UM tipo/CN de/PREP produto/CN 
+é/V um/UM produto/CN classificado/PPA como/CJ 
+é/V a/DA classificação/CN de_/PREP o/DA produto/CN 
+produto/CN classificado/PPA como/CJ 
+o/DA tipo/CN de_/PREP o/DA produto/CN é/V 
+é/V um/UM tipo/CN de/PREP produto/CN 
+é/V outro/ADJ tipo/CN de/PREP produto/CN 
+é/V um/UM famoso/ADJ cientista/CN 
+é/V um/UM cientista/CN 
+o/DA cientista/CN 
+é/V o/DA inventor/CN 
+quem/REL inventou/V foi/V 
+é/V um/UM cientista/CN de_/PREP a/DA computação/CN 
+é/V um/UM cientista/CN americano/ADJ 
+é/V um/UM cientista/CN brasileiro/ADJ 
+é/V um/UM de_/PREP os/DA cientistas/CN 
+cientistas/CN tais/LADV1 como/LADV2 
+é/V um/UM esporte/CN 
+é/V um/UM esporte/CN mundial/ADJ 
+é/V um/UM bom/ADJ esporte/CN 
+é/V um/UM esporte/CN popular/ADJ 
+esportes/CN tais/LADV1 como/LADV2 
+é/V um/UM esporte/CN legal/ADJ 
+é/V o/DA esporte/CN preferido/PPA 
+é/V um/UM esporte/CN muito/ADV popular/ADJ 
+é/V um/UM esporte/CN perigoso/ADJ 
+é/V um/UM esporte/CN aquático/ADJ 
+é/V um/UM time/CN de/PREP futebol/CN americano/ADJ 
+é/V um/UM time/CN de/PREP futebol/CN 
+é/V o/DA time/CN campeão/CN 
+é/V um/UM time/CN de_/PREP o/DA Brasil/PNM 
+é/V uma/UM equipe/CN de/PREP corrida/CN 
+é/V uma/UM equipe/CN de/PREP futebol/CN 
+é/V uma/UM equipe/CN de/PREP basquete/CN 
+times/CN como/CJ 
+equipes/CN como/CJ 
+equipes/CN tais/LADV1 como/LADV2 
+

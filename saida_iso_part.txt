@@ -1,0 +1,310 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Candomblé e Musicalidade | cantandocandomble.musicblog.com.br</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="false" />
+<meta http-equiv="bulletin-text" content="Candomblé e Musicalidade 
+    (cantandocandomble) - http://cantandocandomble.musicblog.com.br/" />
+<meta name="title" content="Candomblé e Musicalidade" />
+<meta name="description" content="Este blog tem como objetivo divulga as raízes da musica negra brasileira com ênfase nas musicas produzidas pelos terreiros de candomblé. " />
+<meta name="keywords" content="cantandocandomble" />
+<meta name="robots" content="index, follow" />
+<meta name="copyright" content="&copy; Hi-Pi - contact@hi-pi.com" />
+<meta name="author"  content="cantandocandomble" />
+<meta name="language"  content="pt-br" />
+
+
+
+<meta property="og:title" content="Candomblé e Musicalidade" />
+
+<meta property="og:type" content="blog" />
+<meta property="og:description" content="Este blog tem como objetivo divulga as raízes da musica negra brasileira com ênfase nas musicas produzidas pelos terreiros de candomblé. " />
+<meta property="og:site_name" content="http://cantandocandomble.musicblog.com.br/" />
+<meta property="og:url" content="http://cantandocandomble.musicblog.com.br/tag/musica+cultura+arte+candomble/?__hsc" />
+
+
+<link rel="icon" href="http://perlbal.hi-pi.com/blog/449912/favicon.ico" />
+<link href="http://static.bloguser.hi-pi.com/css/share-0.1.css" media="all" type="text/css" rel="stylesheet" />
+<link href="http://perlbal.hi-pi.com/blog/449912/style.css?1.25_4e9c3711f504" media="all" type="text/css" rel="stylesheet" />
+<link href="http://static.bloguser.hi-pi.com/css/toolbar.css" type="text/css" rel="stylesheet" />
+<!--[if lt IE 7]>
+<link href="http://static.bloguser.hi-pi.com/css/toolbar_ie6.css" media="all" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://static.bloguser.hi-pi.com/css/jquery.fancybox-1.3.2.css" media="screen" />
+
+<link href="http://static.bloguser.hi-pi.com/css/print.css" media="print" type="text/css" rel="stylesheet" />
+<link rel="alternate" type="application/rss+xml" title="Candomblé e Musicalidade (RSS)" href="http://www.musicblog.com.br/mediafeed.php?lang=br&urlf=http://cantandocandomble.musicblog.com.br/flux/rss/" />
+<script type="text/javascript">
+    var is_1000 = false;
+</script>
+<script type="text/javascript" src="http://static.bloguser.hi-pi.com/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://static.bloguser.hi-pi.com/js/jquery.fancybox-1.3.2.js"></script>
+<script type="text/javascript" src="http://static.bloguser.hi-pi.com/js/swfobject.js"></script>
+<!--[if lt IE 9]><script type="text/javascript" src="http://static.bloguser.hi-pi.com/js/excanvas.compiled.js"></script>
+<![endif]--><script type="text/javascript" src="http://static.bloguser.hi-pi.com/js/blog-0.3.js"></script>
+<script type="text/javascript" src="http://static.bloguser.hi-pi.com/js/bar-0.2.js"></script>
+
+
+
+	<script type="text/javascript" src="http://v2.afilio.com.br/tracker_su_js.php"></script>
+	<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+ if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+ document.write('<scr'+'ipt src="http://ww489.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+
+<script type='text/javascript'> var crtg_nid="1203";var crtg_cookiename="cto_himediabr"; function crtg_getCookie(c_name){var i,x,y,ARRcookies=document.cookie.split(";");for(i=0;i<ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url='http://rtax.criteo.com/delivery/rta/rta.js?netid='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=crtg_content';var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script); </script>
+
+	
+
+
+
+	
+
+
+
+</head>
+<body id="body" oncontextmenu="return false"  class="body-kraft-3">
+<script src="http://tracking.hi-pi.com/loader.php?toolbarId=4149" type="text/javascript"></script>
+<script src="http://www.musicblog.com.br/js/gt.php" type="text/javascript"></script>
+<div id="advert-header" class="header_br-musicblog"></div>	
+<div id="principal">
+	<div id="main-header">
+		<div id="header">
+			<h1><a href="/" title="Retornar &agrave; p&aacute;gina inicial">Candomblé e Musicalidade</a></h1>
+			<hr class="hrspacer" />
+		</div>
+	</div>
+	<div id="content">
+		<div class="infos">
+			<span class="link-home">
+			<a href="/" title="Retornar &agrave; p&aacute;gina inicial">Home</a>
+                        </span>
+			Data de cria&ccedil;&atilde;o : 08/10/28			&Uacute;ltima atualiza&ccedil;&atilde;o : 11/10/17 12:09 / 12 Artigos publicados
+    </div>
+  <div id="main-container">
+        <div id="fake_column" style="display:none;"></div>
+      <div id="main-block">
+<div class="search-result">
+	<h2>
+			Lista de artigos para esta palavra-chave<br /> &laquo; <strong>musica cultura arte candomble</strong> &raquo;
+	        </h2>
+				<ul class="list-result" id="list-result">
+					<li>
+				<h2 class="article-title-h2">1.
+				<a href="/100861/Cantando-Candomble/" title="Cantando Candomblé">Cantando Candomblé</a> 
+				</h2>
+				<span class="search-date">terça 28 outubro 2008 10:42</span>
+																		<a href="/100861/Cantando-Candomble/" title="Cantando Candomblé"><img src="http://perlbal.hi-pi.com/blog-images/449912/tb/1225197392.jpg" alt="" class="img-list-recherche" width="75" height="75"/></a>
+			 
+	<p class="result-content">&nbsp;
+No candomblé a música tem como papel primordial à invocação aos
+orixás, servindo como intermediário entre os homens e os deuses. O
+trio de tambores, Run, o maior, Rumpi, o médio, e Lé, o menor, sao
+tratados pelos adeptos como verdadeiros deuse...</p>
+	<p class="result-footer">
+	<a href="/100861/Cantando-Candomble/" title="Cantando Candomblé">Ver mais......</a>
+	</p>
+			</li>
+					<li>
+				<h2 class="article-title-h2">2.
+				<a href="/101297/Mavambo-Trio-1985/" title="Mavambo Trio 1985">Mavambo Trio 1985</a> 
+				</h2>
+				<span class="search-date">quinta 30 outubro 2008 01:52</span>
+																 
+	<p class="result-content">&nbsp;
+Mavambo
+Trio (Fermata/Cáritas &ndash; 1985) 1. EXU; 2. Ogun;
+3. Ossaniyn; 4. Oxossi; 5. Obaluaê; 6. Xangô; 07. Oxumaré; 08.
+Nana; 09. Iansã; 10. Oxum; 11. Yemanjá; 12. Oba; 13. Ewá; 14.
+Oxalá; 15. Saudação a Xangô; 16. Saudação a Iansã;
+Este d...</p>
+	<p class="result-footer">
+	<a href="/101297/Mavambo-Trio-1985/" title="Mavambo Trio 1985">Ver mais......</a>
+	</p>
+			</li>
+					<li>
+				<h2 class="article-title-h2">3.
+				<a href="/101299/CAPA-DO-CD-RWM-AOS-ORIXAS/" title="CAPA DO CD RWM AOS ORIXÁS">CAPA DO CD RWM AOS ORIXÁS</a> 
+				</h2>
+				<span class="search-date">quinta 30 outubro 2008 02:11</span>
+																		<a href="/101299/CAPA-DO-CD-RWM-AOS-ORIXAS/" title="CAPA DO CD RWM AOS ORIXÁS"><img src="http://perlbal.hi-pi.com/blog-images/449912/tb/1225339810.jpg" alt="" class="img-list-recherche" width="75" height="75"/></a>
+			 
+	<p class="result-content"></p>
+	<p class="result-footer">
+	<a href="/101299/CAPA-DO-CD-RWM-AOS-ORIXAS/" title="CAPA DO CD RWM AOS ORIXÁS">Ver mais......</a>
+	</p>
+			</li>
+					<li>
+				<h2 class="article-title-h2">4.
+				<a href="/114408/Decima-faixa-do-CD-Candombless-lancado-por-Carlinhos-Brown/" title="Décima faixa do CD Candombless lançado por Carlinhos Brown.">Décima faixa do CD Candombless lançado por Carlinhos Brown.</a> 
+				</h2>
+				<span class="search-date">segunda 15 dezembro 2008 21:24</span>
+																 
+	<p class="result-content">&nbsp;
+O disco CANDOMBLESS busca apresentar ao grande público a riqueza
+ancestral do Candomblé misturada à música pop eletrônica artesanal.
+Idealizado por Carlinhos Brown, totalmente gravado no estúdio Ilha
+dos Sapos, no Candeal, bairro onde nasceu e...</p>
+	<p class="result-footer">
+	<a href="/114408/Decima-faixa-do-CD-Candombless-lancado-por-Carlinhos-Brown/" title="Décima faixa do CD Candombless lançado por Carlinhos Brown.">Ver mais......</a>
+	</p>
+			</li>
+					<li>
+				<h2 class="article-title-h2">5.
+				<a href="/114414/Capa-do-CD-Candombless/" title="Capa do CD Candombléss.">Capa do CD Candombléss.</a> 
+				</h2>
+				<span class="search-date">segunda 15 dezembro 2008 21:49</span>
+																		<a href="/114414/Capa-do-CD-Candombless/" title="Capa do CD Candombléss."><img src="http://perlbal.hi-pi.com/blog-images/449912/tb/1229384261.jpg" alt="" class="img-list-recherche" width="75" height="75"/></a>
+			 
+	<p class="result-content">&nbsp;
+Carlinhos Brown é, atualmente, um dos artistas mais prolíficos
+e influentes no mundo. Percussionista, produtor, compositor,
+cantor, agitador cultural e patrocinador de projetos sociais, já
+gravou diversos álbuns e projetos coletivos, dentre os...</p>
+	<p class="result-footer">
+	<a href="/114414/Capa-do-CD-Candombless/" title="Capa do CD Candombléss.">Ver mais......</a>
+	</p>
+			</li>
+					<li>
+				<h2 class="article-title-h2">6.
+				<a href="/114584/Capa-do-CD-Candomble-Brasil-Caritas-Luzes-2000/" title="Capa do CD Candomblé Brasil (Cáritas/Luzes - 2000)">Capa do CD Candomblé Brasil (Cáritas/Luzes - 2000)</a> 
+				</h2>
+				<span class="search-date">terça 16 dezembro 2008 16:32</span>
+																		<a href="/114584/Capa-do-CD-Candomble-Brasil-Caritas-Luzes-2000/" title="Capa do CD Candomblé Brasil (Cáritas/Luzes - 2000)"><img src="http://perlbal.hi-pi.com/blog-images/449912/tb/1229451661.jpg" alt="" class="img-list-recherche" width="75" height="75"/></a>
+			 
+	<p class="result-content">Pai Cido acompanhado pelo coral: Gabriela,
+Valéria, Juliana, Carmen, Jussara, Rodnei e Enéas e pelos alabês;
+Marcelo de Xangô: Rum; Nilson de Oxossi: Lê; Maurício de Ogun:
+Rumpi; Adolfo de Logunedé: agogô; direção: Toninho Gudin; Pai Cido
+canta bem, ...</p>
+	<p class="result-footer">
+	<a href="/114584/Capa-do-CD-Candomble-Brasil-Caritas-Luzes-2000/" title="Capa do CD Candomblé Brasil (Cáritas/Luzes - 2000)">Ver mais......</a>
+	</p>
+			</li>
+				</ul>
+		<p class="extend_search_p"><a class="extend_search" target="_blank" href="http://www.musicblog.com.br/search_all/musica cultura arte candomble/" title="Pesquise um blog no:musica cultura arte candomble">Estender esta pesquisa a todos os blogs (musica cultura arte candomble)</a></p>
+</div>
+</div>
+<div id="leftbox">
+<div id="allart" class="menu-box">
+
+<h3>Todos os artigos</h3>
+<div class="content">
+	<ul class="list-allart" id="allart-list">
+		<li class="li-accueil btn-accueil ">
+			<a href="/" title="Retornar &agrave; p&aacute;gina inicial" class="button-submit">Home</a>
+		</li>
+		 
+		<li class="li-lastart btn-accueil entete">
+			<a href="/114584/Capa-do-CD-Candomble-Brasil-Caritas-Luzes-2000/" title="Ver o &uacute;ltimo artigo publicado : Capa do CD Candomblé Brasil (Cáritas/Luzes - 2000)">O &uacute;ltimo artigo</a>
+		</li>
+															<li><a href="/114584/Capa-do-CD-Candomble-Brasil-Caritas-Luzes-2000/" title="Capa do CD Candomblé Brasil (Cáritas/Luzes - 2000)"><strong>Capa do CD Candomblé Brasil (Cáritas/Luzes - 2000)</strong></a></li>
+														<li><a href="/114580/Pai-Cido-de-Oxun-Eyin-Candomble-Brasil/" title="Pai Cido de Oxun Eyin – Candomblé Brasil">Pai Cido de Oxun Eyin – Candomblé Brasil</a></li>
+												<li><a href="/114521/Candomble-Brasil/" title="Candomblé Brasil">Candomblé Brasil</a></li>
+												<li><a href="/114414/Capa-do-CD-Candombless/" title="Capa do CD Candombléss.">Capa do CD Candombléss.</a></li>
+												<li><a href="/114408/Decima-faixa-do-CD-Candombless-lancado-por-Carlinhos-Brown/" title="Décima faixa do CD Candombless lançado por Carlinhos Brown.">Décima faixa do CD Candombless lançado por Carlinhos Brown.</a></li>
+												<li><a href="/101302/AGUERE/" title="AGUERÊ">AGUERÊ</a></li>
+						</ul>
+	<div class="pagination-block">
+		
+		<select name="pageName" onchange="window.location=this.value" class="pagenameselect">
+		<option value="http://cantandocandomble.musicblog.com.br/">p&aacute;gina 1</option>
+				<option value="http://cantandocandomble.musicblog.com.br/2/" >p&aacute;gina 2</option>
+				<option value="http://cantandocandomble.musicblog.com.br/3/" >p&aacute;gina 3</option>
+			</select>
+		
+	</div>
+</div>
+</div>
+<div id="myfriends" class="menu-box">
+
+<h3>Meus amigos</h3>
+<div class="list-visitors">
+	<ul>
+			<li>
+            <a class="infobulle blog_avatar" href="http://bia.spaceblog.com.br/" target="_blank"   rel='{"pseudo":"bia","descr":"Aqui &eacute; o lugar para voc&ecirc; ficar ligar ligado em todasas novidades do Blogora "}'> <img src="http://perlbal.hi-pi.com/blog/329246/mn/1169236142-bia.jpg" alt="bia" /></a>            <a href="http://bia.spaceblog.com.br" title="bia.spaceblog.com.br">bia</a>
+        </li>
+			<li>
+            <a class="infobulle blog_avatar" href="http://pre-vestibular.arteblog.com.br/" target="_blank"   rel='{"pseudo":"pre-vestibular","descr":"estude-estude-estude-estude-estude-estude-estude-estude-estude-estude-estude-estude-estud "}'> <img src="http://perlbal.hi-pi.com/blog/395581/mn/1211988437-pre-vestibular.jpg" alt="pre-vestibular" /></a>            <a href="http://pre-vestibular.arteblog.com.br" title="pre-vestibular.arteblog.com.br">pre-vestibular</a>
+        </li>
+			<li>
+            <a class="infobulle blog_avatar" href="http://guima.musicblog.com.br/" target="_blank"   rel='{"pseudo":"guima","descr":"GILBERTO GUIMAR&Atilde;ES&nbsp;&nbsp; Compositorescritorbateristam&aacute;gicoartist "}'> <img src="http://perlbal.hi-pi.com/blog/438757/mn/1172679837-guima.jpg" alt="guima" /></a>            <a href="http://guima.musicblog.com.br" title="guima.musicblog.com.br">guima</a>
+        </li>
+			<li>
+            <a class="infobulle blog_avatar" href="http://diretodageladeira.musicblog.com.br/" target="_blank"   rel='{"pseudo":"diretodageladeira","descr":"Lan&ccedil;ado em 15 de mar&ccedil;o de 2008 no Musicblog oDIRETO DA GELADEIRA &eacute; "}'> <img src="http://perlbal.hi-pi.com/blog/444429/mn/1206932127-diretodageladeira.jpg" alt="diretodageladeira" /></a>            <a href="http://diretodageladeira.musicblog.com.br" title="diretodageladeira.musicblog.com.br">diretodageladeira</a>
+        </li>
+			<li>
+            <a class="infobulle blog_avatar" href="http://mujimbo.musicblog.com.br/" target="_blank"   rel='{"pseudo":"mujimbo","descr":"No intuito de aprofundar minha voca&ccedil;&atilde;o essencial para curioso profissional e "}'> <img src="http://perlbal.hi-pi.com/blog/447408/mn/1259700707-mujimbo.jpg" alt="mujimbo" /></a>            <a href="http://mujimbo.musicblog.com.br" title="mujimbo.musicblog.com.br">mujimbo</a>
+        </li>
+		</ul>
+	<p style="clear: both"><a href="/a/amigos/" title="Ver amigos">Ver amigos</a></p>
+</div>
+</div>
+<div id="descriptif" class="menu-box">
+
+<h3>Descri&ccedil;&atilde;o</h3>
+<div class="content">
+        <img src="http://perlbal.hi-pi.com/blog/449912/mn/1225253238-cantandocandomble.jpg" width="50" />
+        	<div class="description" style="text-align:left;">Este blog tem como objetivo divulga as raízes da musica negra
+brasileira com ênfase nas mu ...</div>
+    	<a href="/p/profil/">Ler a continua&ccedil;&atilde;o</a>
+</div>
+</div>
+<div id="search" class="menu-box">
+
+<h3><a href="/search-archives/" class="hidden-link">buscas arquivadas</a>Busca</h3>
+<div class="content">
+<form id="blog-search" action="/search/" method="post">
+		<input class="input-text input-search" type="text" value="musica cultura arte candomble" onclick="if ( this.value == 'Palavra-chave') this.value=''" onblur="if ( this.value == '') this.value='Palavra-chave';" id="searchkey" name="keyword" />
+		<input class="input-btn input-btn-search" type="submit" id="submit-search" value="ok" />
+	</form>
+</div>
+</div>
+<div id="profil" class="menu-box">
+
+<h3>Perfil</h3>
+<div class="content">
+	<ul>
+	<li><a class="prof" href="/p/perfil/" title="Ver o perfil">Ver o perfil</a></li>
+	<li class="friend"><a class="fri" href="/a/amigos/" title="Ver amigos">Ver amigos</a></li>
+	<li><a class="msg" href="/profil/add/messages/449912" target="community_blank" title="Escrever uma mensagem">Escrever uma mensagem</a></li>
+                
+	<li><a class="req" href="/profil/add/friends" target="community_blank" title="Convidar um amigo">Convidar um amigo</a></li>
+    	</ul>
+</div>
+</div>
+<div id="blogpotes" class="menu-box">
+
+<h3>Links Favoritos:</h3>
+<div class="content">
+	<ul>
+			<li>
+						<a href="http://acervoftu.blogspot.com/search/label/R%C3%A1dio%20Ayom" target="_blank" title="O melhor da música de terreiro : http://acervoftu.blogspot.com/search/label/R%C3%A1dio%20Ayom">
+					<img src="http://perlbal.hi-pi.com/blog-images/449912/mn/1229448740.jpg" style="vertical-align: middle;" border="0" alt="http://acervoftu.blogspot.com/search/label/R%C3%A1dio%20Ayom" />
+				</a>
+<br />
+						<a href="http://acervoftu.blogspot.com/search/label/R%C3%A1dio%20Ayom" target="_blank" title="O melhor da música de terreiro">O melhor da música de terreiro</a>
+		</li>
+			<li>
+						<a href="http://www.atelierlua.com.br/intro.php" target="_blank" title="Instrumentos de Percussão">Instrumentos de Percussão</a>
+		</li>
+		</ul>
+	</div>
+</div>
+<div id="mailrss" class="menu-box">
+
+<h3  class="rss-insc">Cadastro a newsletter</h3>
+<div class="content">
+	<div class="rsstext">
+    <p>Receba por e-mail as novidades desse blog.</p>
+    <p>
+	   <a title="Receba por e-mail as novidades desse blog." href="/rss/fique-por-dentro/" class="button-submit">
+	     cadastre-se clique aqui	   </a>
+	  </p>
+	</div>
+	<p class="rss"

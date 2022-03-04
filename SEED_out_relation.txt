@@ -1,0 +1,140 @@
+ /V /PPA _/PREP /DA
+ /V /PPA _/PREP /DA /CN
+ /V /PPA _/PREP /DA
+ /V /PPA _/PREP /DA /CN
+ /V /PPA _/PREP /DA
+ /V /PPA _/PREP /DA /CN
+ /V /PPA _/PREP /DA
+ /V /PPA _/PREP /DA /CN
+ /V /UM _/CN /DA /CN _/PREP /DA /CN
+ /V /UM _/PREP /DA /CN _/PREP /DA /CN
+ /V /DA /ADJ /CN _/PREP /DA /CN
+ /V /ADJ /ADJ /CN _/V /DA
+ /V /CN _/PREP /DA /CN
+ /V /ADJ /CN _/V /DA
+ /V /DA /CN _/PREP /DA /CN
+ /V /DA /CN _/PREP /DA /CN
+ /V /DA /CN /PREP /CN /CN _/PNT /DA
+ /V /DA /ADJ /CN _/V /DA
+ /V /DA /CN /PREP /CN /CN _/PNT /DA
+ /V /DA /ADJ /CN _/V /DA
+ /V /CN _/PREP /DA /CN
+ /V /DA /ADJ /CN _/PREP /DA /CN _/V /CL
+ /V /ADJ _/INF /DA
+ /V /DA /CN _/V /DA
+ /V /DA /ADJ /CN _/V /DA
+ /V /DA /ADJ /CN _/PREP /DA /CN _/V /CL
+ /V /ADJ _/PNT /DA
+ /V /CN _/PNT /DA
+ /V /DA /CN _/V /DA /CN /PREP
+ /V /DA /CN _/V /DA /CN
+ /V /UM /CN _/PREP /DA /CN /PREP
+ /V /UM /CN _/PREP /DA /CN
+ /V /UM /CN _/PREP /DA /CN /PREP
+ /V /UM /CN _/PREP /DA /CN
+ /V /UM /CN _/PREP /DA /CN
+ /V /UM /CN _/PREP /DA /CN
+ /V /CN _/PREP /DA /CN /PREP
+ /V /DA /ADJ /CN _/PREP /DA /CN /PREP
+ /V /UM _/PREP /DA /ADJ /CN _/PREP /DA /CN /PREP
+ /V /UM _/CN /DA /CN _/V /DA /CN /PREP
+ /V /ADJ _/CN /PREP
+ /V /ADJ _/INF /CL
+ /V /UM _/CN /DA /CN /PREP
+ /V /UM /CN /REL /V /PREP
+ /V /CN /PREP
+ /V /CN /PREP
+ /V /POSS /CN _/PREP /DA /CN
+ /V /UM /CN /ADJ _/PNT /DA
+ /V _/PREP /DA /CN /PREP
+ /V /UM /ADJ /CN _/ADJ /PREP
+ /V /CN /PREP
+ /V /CN /PREP
+ /V /CN _/PREP /DA /CN /PREP
+ /V /PPA /DA /CN _/V /CL
+ /V /ADJ /CN /PREP
+ /V /QNT /CN /PREP
+ /V /UM /CN /PREP
+ /V /UM /ADJ /CN /PREP
+ /V /QNT /CN /PREP
+ /V /UM /CN /PREP
+ /V /CN /ADJ _/PREP /DA
+ /V /CN /ADJ /PREP
+ /V /CN /ADJ /PREP
+ /V /CN /PREP
+ /V /CN _/PREP /DA
+ /V /ADJ /CN /PREP
+ /V /CN /ADJ /PREP
+ /V /CN /PREP
+ /V /CN /ADJ /PREP
+ /V /ADJ /CN /PREP
+ /V /CN /PREP
+ /V /CN /PREP
+ /V /POSS /CN /PPA /PREP
+ /V /POSS /CN /PREP
+ /V /CN /PREP
+ /V /CN /PREP
+ /PREP /CN /PREP
+ /V /CN _/PREP /DA /CN /PREP
+ /V /CN _/PREP /DA /CN /PREP
+ /POSS /CN /V /LADV1
+ /V _/PREP /DA
+ /V /CN _/LPREP1 /LPREP2
+ /V /UM _/CN /DA /CN _/V /CL
+ /V /DA /ADJ /CN _/V /CL
+ /V /GER _/PREP /DA
+ /V /GER _/PREP /DA
+ /V _/PREP /DA /CN
+ /V /GER _/PREP /DA
+ /V /DA /CN _/V /CL
+ /V /DA /CN _/V /CL
+ /V /UM _/CN /DA /ADJ /CN /PREP
+ /V /CN /PREP
+ /V /UM _/CN /DA /CN /PREP
+ /V /DA /ADJ /CN /PREP
+ /V /DA /ADJ /CN /PREP
+ /V /UM /ADJ /CN /PREP
+ /V /DA /CN _/V /CL
+ /V /DA /ADJ /CN _/V /CL
+ /V /DA /ADJ /CN /PREP
+ /V /UM /CN /PREP
+ /V /DA /CN /PREP
+ /V /UM /CN /CN /PREP
+ /V /DA /CN /CN /PREP
+ /V /DA /ADJ /CN /PREP
+ /V /DA /ADJ /CN /PREP
+ /V /DA /CN /CN /PREP
+ /V /UM /CN /PREP
+ /V /DA /CN /CN /PREP
+ /V /UM /CN /ADJ /PREP
+ /V /UM /CN /ADJ /PREP
+ /V /DA /CN /REL /V
+ /V /DA /CN /PREP
+ /V /DA /CN /REL /V
+ /V /DA /CN /PREP
+ /V /DA /CN /ADJ /PREP
+ /V /PPA _/PREP /DA
+ /V /PPA _/PREP /DA
+ /V /DA /CN /PPA _/PREP /DA
+ /V /UM _/PREP /DA /CN _/ADJ /PREP
+ /V /ADJ /PREP
+ /V /UM /CN /PPA /CJ
+ /V /UM /CN _/PREP /DA /CN
+ /V /UM _/PREP /DA /CN _/PREP /DA /CN
+ /V /DA /CN _/PREP /DA /CN
+ /V /UM /CN /PPA
+ /V /UM /CN /PREP /CN
+ /V /CN _/PREP /DA /CN
+ /V _/PREP /DA /CN /PREP /CN
+ /V /CN /PPA /CJ
+ /V /DA /ADJ /CN _/PREP /DA /CN
+ /V /DA /CN /PREP
+ /V /DA /CN _/PNT /DA
+ /V /DA /CN _/ADJ /PREP
+ /V /DA /CN _/PNT /DA
+ /V /UM /CN /ADJ _/V /CL
+ /V /UM /CN _/PREP /DA /CN _/PNT /DA
+ /V /UM /ADJ /CN _/V /CL
+ /V /UM _/PREP /DA /CN /ADV /ADJ _/V /CL
+ /V /DA /CN /ADV /ADJ _/LCJ1 /LCJ2
+ /V /UM /CN /ADJ _/PNT /DA
